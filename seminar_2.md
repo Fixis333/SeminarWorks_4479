@@ -55,6 +55,7 @@ git init
 
 
 ## Инлайн код
-
-
-
+Меня зовут Max, Max Payne.
+Меня зовут Max, Max Payne.
+Меня зовут Max, Max Payne.
+Меня зовут Max, Max Payne.
