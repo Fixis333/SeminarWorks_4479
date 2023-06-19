@@ -19,3 +19,40 @@ git init
 
 <u>git add goodfile.cpp goodfile.h</u> <br>
 <u>git commit -m "Commit message."</u>
+
+
+
+# Туториал (справка) для работы с языком MarkDown
+
+
+## Заголовки
+
+
+
+
+
+
+
+
+
+## Горизонтальная черта
+
+
+
+
+
+
+
+
+
+## Зачеркивание
+
+
+
+
+
+
+
+
+## Инлайн код
+
